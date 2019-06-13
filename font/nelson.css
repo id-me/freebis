@@ -2,6 +2,8 @@
   font-family: 'nelson';
   font-weight: normal;
   font-style: normal;
-  src: local('mock'), url('http://localhost:7654/font/nelson.woff?12345') format('woff');
+  src: local('mock'),
+    url('https://github.com/id-me/freebis/raw/master/font/nelson.woff') format('woff'),
+    url('http://localhost:7654/font/nelson.woff?12345') format('woff');
 }
 

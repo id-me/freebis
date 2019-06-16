@@ -2,7 +2,7 @@
   font-family: 'nelson';
   font-weight: normal;
   font-style: normal;
-  src: local('mock'),
+  src: local('nelson'),
     url('https://cdn.jsdelivr.net/gh/id-me/freebis/font/nelson.woff?a') format('woff');
 }
 

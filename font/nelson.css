@@ -3,7 +3,6 @@
   font-weight: normal;
   font-style: normal;
   src: local('mock'),
-    url('https://github.com/id-me/freebis/raw/master/font/nelson.woff') format('woff'),
-    url('http://localhost:7654/font/nelson.woff?12345') format('woff');
+    url('https://cdn.jsdelivr.net/gh/id-me/freebis/font/nelson.woff?a') format('woff');
 }
 

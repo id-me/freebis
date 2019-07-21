@@ -1,0 +1,6 @@
+Command failed: jsonnet aspire/en/mock.jsnt
+RUNTIME ERROR: function parameter k not bound in call.
+	aspire/en/../db/mock/config.jsnt:7:5-31	thunk <array_element>
+	aspire/en/../db/mock/config.jsnt:(6:10)-(10:4)	object <cfg>
+	aspire/en/mock.jsnt:10:11-14	object <anonymous>
+	During manifestation	

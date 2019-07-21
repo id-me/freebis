@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'mock';
+  font-weight: normal;
+  font-style: normal;
+  src: local('mock'), url('http://localhost:7654/font/mock.woff?12345') format('woff');
+}
+
